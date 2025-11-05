@@ -1,0 +1,9 @@
+{
+  "name": "datacurve-take-home-test",
+  "version": "1.0.0",
+  "description": "Bun test example",
+  "scripts": {
+    "test": "bun test"
+  }
+}
+
